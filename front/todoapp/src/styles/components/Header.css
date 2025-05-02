@@ -1,0 +1,10 @@
+.search-pan {
+    width: 520px;
+    border-radius: 10px;
+}
+
+.left-header {
+    display: flex;
+    flex-direction: row;
+    border-style: none;
+}

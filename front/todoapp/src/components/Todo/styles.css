@@ -1,0 +1,19 @@
+.tags-list:hover {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.tags-list {
+    text-align: center;
+    list-style-type: none;
+    display: inline;
+    margin-left: 10px;
+    border: solid, cornflowerblue, 2px;
+    border-radius: 10px;
+    width: 100px;
+    text-decoration: none;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
